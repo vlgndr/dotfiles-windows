@@ -7,6 +7,6 @@
 Clone the repository and apply it with chezmoi:
 
 ```powershell
-chezmoi init gvnadir/dotfiles-windows
+chezmoi init git@github.com:vlgndr/dotfiles-windows.git
 chezmoi apply
 ```
