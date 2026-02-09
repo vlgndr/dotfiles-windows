@@ -8,5 +8,6 @@ Clone the repository and apply it with chezmoi:
 
 ```powershell
 chezmoi init git@github.com:vlgndr/dotfiles-windows.git
+cd $HOME\.local\share\chezmoi
 chezmoi apply
 ```
