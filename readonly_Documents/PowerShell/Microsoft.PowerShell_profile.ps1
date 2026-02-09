@@ -6,7 +6,7 @@ Set-Alias grex  Get-RegexExample
 Set-Alias ggit  Get-GitCommand
 Set-Alias gdork Get-GoogleDorkingCommand
 
-# Set-PSReadLineOption -PredictionSource None
+Set-PSReadLineOption -PredictionSource None
 
 
 
