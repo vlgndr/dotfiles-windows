@@ -1,3 +1,5 @@
+Import-Module PwshUtils.CheatSheets
+
 Set-Alias gvim  Get-VimCommand
 Set-Alias gwin  Get-WindowsCommand
 Set-Alias gmap  Get-WinLinuxMap
